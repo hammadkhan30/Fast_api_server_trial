@@ -1,1 +1,1 @@
-Key = "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"
+Key = "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"
